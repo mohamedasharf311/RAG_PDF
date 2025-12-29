@@ -1,0 +1,6 @@
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+pypdf>=3.0.0
+nltk>=3.8.0
+numpy>=1.24.0
+gradio>=4.0.0
